@@ -1,0 +1,2405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972108,
+          40.665075
+        ]
+      },
+      "properties": {
+        ":id": "row-7zbe~feuz_4uyr",
+        ":version": "rv-yk3f.u2i9_s6xh",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0933",
+        "fountainty": "Bottle Filler Fountain",
+        "position": "Under Tree, In Shade",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Bottle Filler Fountain-Prospect Park-Middle Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96915,
+          40.6704
+        ]
+      },
+      "properties": {
+        ":id": "row-ubzx_x8kb_9my2",
+        ":version": "rv-qyne_gbin-bhhf",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0307",
+        "fountainty": "B",
+        "position": "Out in Open",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN13",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Upper Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972886,
+          40.655153
+        ]
+      },
+      "properties": {
+        ":id": "row-26z5.s78z-63cm",
+        ":version": "rv-de4p.2jyg_fgnk",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0378",
+        "fountainty": "E High Low",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-07",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Vanderbilt Playground",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974039,
+          40.663617
+        ]
+      },
+      "properties": {
+        ":id": "row-4bj9~mznr-5tmu",
+        ":version": "rv-bg2y~dffr.2wxf",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0936",
+        "fountainty": "E",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Middle Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971572,
+          40.665559
+        ]
+      },
+      "properties": {
+        ":id": "row-8s3c~6fbw_4zb6",
+        ":version": "rv-wv3y_cag7_9axj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1124",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1239",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-PICNIC HOUSE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963555,
+          40.660498
+        ]
+      },
+      "properties": {
+        ":id": "row-dqsz~vwq5.5ras",
+        ":version": "rv-ncrt.r58d~tfea",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0288",
+        "fountainty": "CS Concrete",
+        "position": "Just Outside Playground",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN10",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "CS Concrete-Prospect Park-Willink Hill",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974951,
+          40.665555
+        ]
+      },
+      "properties": {
+        ":id": "row-br59-uiey_m2ky",
+        ":version": "rv-5i45_dey2.baqz",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1038",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-BLG1225",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-BKLYN SHOPS",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971572,
+          40.66556
+        ]
+      },
+      "properties": {
+        ":id": "row-m3r4~rv96~cnx2",
+        ":version": "rv-fzx2-mbar_esai",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1143",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1239",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-PICNIC HOUSE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963393,
+          40.655488
+        ]
+      },
+      "properties": {
+        ":id": "row-j7vm~yita~iqwa",
+        ":version": "rv-mp7c_w6er.dnqi",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0937",
+        "fountainty": "E High Low",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN25",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Prospect Lake Near Duck Island",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974789,
+          40.660702
+        ]
+      },
+      "properties": {
+        ":id": "row-k6un.3ksu~b8hk",
+        ":version": "rv-mwfe.u48d~8h29",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0847",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973774,
+          40.668019
+        ]
+      },
+      "properties": {
+        ":id": "row-n5c9~zfcb_7knt",
+        ":version": "rv-3xpm~38qc_a5qf",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0912",
+        "fountainty": "E",
+        "position": "Under Tree, In Shade, Out in Open",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Litchfield Villa",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974653,
+          40.660912
+        ]
+      },
+      "properties": {
+        ":id": "row-ixh6.q4gf_g8hu",
+        ":version": "rv-cjb8-gsxg~z8pj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0848",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-7p97~xjab-rmij",
+        ":version": "rv-ufm9-7udj_vghj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1048",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Fountain-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-4p9w~4n57-txhn",
+        ":version": "rv-tiq2-c3nm_xs82",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1043",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969857,
+          40.660802
+        ]
+      },
+      "properties": {
+        ":id": "row-npec.kmu5.9f3g",
+        ":version": "rv-7w9v~jweb-xs5g",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0382",
+        "fountainty": "Bottle Filler High Low",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN19",
+        "borough": "B",
+        "fountainco": "3",
+        "department": "B-19",
+        "decription": "Bottle Filler High Low-Prospect Park-The Nethermead",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972849,
+          40.661656
+        ]
+      },
+      "properties": {
+        ":id": "row-9x8h_zunw-8ytb",
+        ":version": "rv-5cve~5ii6-jpre",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0853",
+        "fountainty": "B",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965469,
+          40.665364
+        ]
+      },
+      "properties": {
+        ":id": "row-qed7_xyh2~yuyk",
+        ":version": "rv-g4rw_mhxk-g38g",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1052",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-ZOO",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970436,
+          40.672117
+        ]
+      },
+      "properties": {
+        ":id": "row-jpq9_siq6_agn3",
+        ":version": "rv-3x2t-r4kw-up9f",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0297",
+        "fountainty": "E",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN01",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Main Entrance",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788,
+          40.661575
+        ]
+      },
+      "properties": {
+        ":id": "row-u52x_tpd5~m7k6",
+        ":version": "rv-vpx2_9mdz~65zq",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0377",
+        "fountainty": "Bottle Filler High Low",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN04",
+        "borough": "B",
+        "fountainco": "3",
+        "department": "B-19",
+        "decription": "Bottle Filler High Low-Prospect Park-The Bandshell",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969255,
+          40.657617
+        ]
+      },
+      "properties": {
+        ":id": "row-6s95~wi7f-cdj5",
+        ":version": "rv-5ycg_3r8z-cnfq",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0379",
+        "fountainty": "E and Dog",
+        "position": "In Shade",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN21",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E and Dog-Prospect Park-Peninsula",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973349,
+          40.663586
+        ]
+      },
+      "properties": {
+        ":id": "row-dgub-c79p~h8hb",
+        ":version": "rv-8qcp.dhp9-wkj6",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1056",
+        "fountainty": "Drinking Fountain Sink Combination",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1238",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Drinking Fountain Sink Combination-Prospect Park-TENNIS HOUSE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971586,
+          40.665569
+        ]
+      },
+      "properties": {
+        ":id": "row-k5bz.n64s-i3bi",
+        ":version": "rv-zfy6_vzdy~mb27",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0305",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1239",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-PICNIC HOUSE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.964002,
+          40.657283
+        ]
+      },
+      "properties": {
+        ":id": "row-tudh_axk8~m4gi",
+        ":version": "rv-297s_ef2v.u9dg",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1125",
+        "fountainty": "E",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN24-BLG1232",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-LeFrak Center at Lakeside Ice Rink",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973859,
+          40.660772
+        ]
+      },
+      "properties": {
+        ":id": "row-k8ht.d7wc.gsxs",
+        ":version": "rv-hfrb.yzsj_dkpg",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0934",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN16",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Quaker Hill And Friends Cemetery",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973568,
+          40.66124
+        ]
+      },
+      "properties": {
+        ":id": "row-7snt_5by8~9z2z",
+        ":version": "rv-h4xw.uknc.abyw",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0852",
+        "fountainty": "B",
+        "position": "Near Ballfield, Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970069,
+          40.671921
+        ]
+      },
+      "properties": {
+        ":id": "row-3ga6_kawn-ezfq",
+        ":version": "rv-vzim_gxi9.d4af",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0913",
+        "fountainty": "B",
+        "position": "Under Tree, In Shade",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN01",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Main Entrance",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965469,
+          40.665364
+        ]
+      },
+      "properties": {
+        ":id": "row-4sv7-av9f_igxm",
+        ":version": "rv-48vg_ykk4~fu93",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1051",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Fountain-Prospect Park-ZOO",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971868,
+          40.652232
+        ]
+      },
+      "properties": {
+        ":id": "row-y46m.bkkm-tiaj",
+        ":version": "rv-j6y8_sccg-x6yr",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0383",
+        "fountainty": "E",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN07",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-South West Entrance",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977091,
+          40.663396
+        ]
+      },
+      "properties": {
+        ":id": "row-gxki_gmdw_z2av",
+        ":version": "rv-gtzm~rdmj-3v37",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0857",
+        "fountainty": "E",
+        "position": "Out in Open, In Playground",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-20",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Harmony Playground",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965426,
+          40.662459
+        ]
+      },
+      "properties": {
+        ":id": "row-s5vb_b5tq-bvk5",
+        ":version": "rv-64yh_qpre~r4bh",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0290",
+        "fountainty": "Bottle Filler Fountain",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN23",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Bottle Filler Fountain-Prospect Park-Lullwater & Boathouse",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967964,
+          40.661604
+        ]
+      },
+      "properties": {
+        ":id": "row-n43n_nd2j-9ir2",
+        ":version": "rv-2ici-chd6.rgzy",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0939",
+        "fountainty": "E and Dog",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN19",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E and Dog-Prospect Park-The Nethermead",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974551,
+          40.665366
+        ]
+      },
+      "properties": {
+        ":id": "row-6p3u-x8wc-kmkk",
+        ":version": "rv-9wrp-ip9k_p2ax",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1159",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-Boro Crews",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971919,
+          40.655225
+        ]
+      },
+      "properties": {
+        ":id": "row-baii-s32m.wsy8",
+        ":version": "rv-qhgn~b7ux~knpx",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1019",
+        "fountainty": "Bottle Filler Fountain",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN26",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Bottle Filler Fountain-Prospect Park-Prospect Lake Near West Island",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.964445,
+          40.659894
+        ]
+      },
+      "properties": {
+        ":id": "row-hibt-8vc7_vmf9",
+        ":version": "rv-wrdg~m8e7.9sf7",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0380",
+        "fountainty": "B",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN24",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lakeside Center & Concert Grove",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-dqqn-ekcn~8rcd",
+        ":version": "rv-3zuy.hkk3.ejhd",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1042",
+        "fountainty": "Bottle Filler Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Bottle Filler Fountain-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973349,
+          40.663586
+        ]
+      },
+      "properties": {
+        ":id": "row-gqv7~w28e-5pey",
+        ":version": "rv-nqx6-tztm~k7f9",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1055",
+        "fountainty": "Drinking Fountain Sink Combination",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1238",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Drinking Fountain Sink Combination-Prospect Park-TENNIS HOUSE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963945,
+          40.663567
+        ]
+      },
+      "properties": {
+        ":id": "row-cuiy.gdqb~fuy2",
+        ":version": "rv-x4ub-a5cu-b6uh",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0289",
+        "fountainty": "B",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-The Zoo, Lefferts Homestead, Carousel",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973731,
+          40.664507
+        ]
+      },
+      "properties": {
+        ":id": "row-parz_b6e2-sdhh",
+        ":version": "rv-rtmp~m53u_vf4p",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0376",
+        "fountainty": "Bottle Filler Fountain",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN04",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "Bottle Filler Fountain-Prospect Park-The Bandshell",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.964002,
+          40.657284
+        ]
+      },
+      "properties": {
+        ":id": "row-aei8.j744~9a7w",
+        ":version": "rv-renm-ye9g_3jt9",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1057",
+        "fountainty": "E",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN24-BLG1232",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-LeFrak Center at Lakeside Ice Rink",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976657,
+          40.663667
+        ]
+      },
+      "properties": {
+        ":id": "row-y5us~s6rp.ywp2",
+        ":version": "rv-724y.xct5_bgbq",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0856",
+        "fountainty": "E",
+        "position": "In Playground, Under Tree, In Shade",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-20",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Harmony Playground",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972959,
+          40.667047
+        ]
+      },
+      "properties": {
+        ":id": "row-ecwg~zvqy_tpua",
+        ":version": "rv-8bfc-xgfx.v8bc",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0909",
+        "fountainty": "B",
+        "position": "In Playground",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-02",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Third St Plgd",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976453,
+          40.661363
+        ]
+      },
+      "properties": {
+        ":id": "row-yjvt.yfub.2jnh",
+        ":version": "rv-wksf_7ien.t4va",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0845",
+        "fountainty": "E High Low",
+        "position": "Near Ballfield, Out in Open",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973676,
+          40.661114
+        ]
+      },
+      "properties": {
+        ":id": "row-8mzf.hbfa_xz5d",
+        ":version": "rv-8y7w.u4gg_sbfs",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0851",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965469,
+          40.665364
+        ]
+      },
+      "properties": {
+        ":id": "row-y9xw-yy5i~fptk",
+        ":version": "rv-6kk7~fhnp.kyw8",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1050",
+        "fountainty": "CS Metal",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "CS Metal-Prospect Park-ZOO",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963769,
+          40.659168
+        ]
+      },
+      "properties": {
+        ":id": "row-wx29~27rf.f7im",
+        ":version": "rv-exsy.a33b-e6ik",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0938",
+        "fountainty": "B",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN24",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lakeside Center & Concert Grove",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-sktd_ywy4_atub",
+        ":version": "rv-tpa3~ybqt_23vp",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1046",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971412,
+          40.665535
+        ]
+      },
+      "properties": {
+        ":id": "row-9waq.69uy-94dh",
+        ":version": "rv-qpca~k98z-35pw",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0932",
+        "fountainty": "CS Metal",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "CS Metal-Prospect Park-Middle Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-7x6t~67u7.cke7",
+        ":version": "rv-zcyv-ehud~vn8w",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1044",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971526,
+          40.666059
+        ]
+      },
+      "properties": {
+        ":id": "row-7mig_2u7b~sfyr",
+        ":version": "rv-wtd7~ywwv-bd3f",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0304",
+        "fountainty": "A",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN13",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "A-Prospect Park-Upper Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972731,
+          40.654882
+        ]
+      },
+      "properties": {
+        ":id": "row-8huv.wfhb.kdbd",
+        ":version": "rv-8im8.3ipu_4pge",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0910",
+        "fountainty": "E High Low",
+        "position": "In Playground",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-07",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Vanderbilt Playground",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965858,
+          40.661651
+        ]
+      },
+      "properties": {
+        ":id": "row-d39x.3ni8.hvab",
+        ":version": "rv-nfsd_upys-9b8e",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0381",
+        "fountainty": "E",
+        "position": "In Shade",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN23",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Lullwater & Boathouse",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965469,
+          40.665364
+        ]
+      },
+      "properties": {
+        ":id": "row-fgbq~cics.bchu",
+        ":version": "rv-yw49-7gqk_qkhq",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1122",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-ZOO",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975115,
+          40.665219
+        ]
+      },
+      "properties": {
+        ":id": "row-9t8b_vzbc_nvgu",
+        ":version": "rv-z9kk.973p-6gbc",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1041",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-BLG1226",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Fountain-Prospect Park-PROSPECT PK GARAGE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966241,
+          40.652998
+        ]
+      },
+      "properties": {
+        ":id": "row-vnn2_8x2p~v25s",
+        ":version": "rv-iuir.b9mk_9ye5",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0341",
+        "fountainty": "Bottle Filler High Low",
+        "position": "Under Tree, Near Ballfield",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN28",
+        "borough": "B",
+        "fountainco": "3",
+        "department": "B-14",
+        "decription": "Bottle Filler High Low-Prospect Park-East Parade Grounds",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "60",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "43",
+        ":@computed_region_92fq_4b7q": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965281,
+          40.660823
+        ]
+      },
+      "properties": {
+        ":id": "row-xq4k~3rh7~v4u5",
+        ":version": "rv-b7gw_s48q~5gqz",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1054",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN23-BLG1242",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-Audubon Center at the Boathouse",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967924,
+          40.653407
+        ]
+      },
+      "properties": {
+        ":id": "row-u4k9_kh3m~5bkc",
+        ":version": "rv-fkti_wxja-5rh6",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0914",
+        "fountainty": "Bottle Filler",
+        "position": "Under Tree, In Shade, Out in Open",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN26",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Bottle Filler-Prospect Park-Prospect Lake Near West Island",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973582,
+          40.656401
+        ]
+      },
+      "properties": {
+        ":id": "row-bbyk-h9c3~krzx",
+        ":version": "rv-bf98~jbsn~kg36",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0955",
+        "fountainty": "E",
+        "position": "Under Tree",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN06",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Prospect Park Southwest Lower",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974353,
+          40.662501
+        ]
+      },
+      "properties": {
+        ":id": "row-xvzh~q263~jthr",
+        ":version": "rv-jwkv-587r_cifj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0855",
+        "fountainty": "B",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968074,
+          40.668541
+        ]
+      },
+      "properties": {
+        ":id": "row-aepn-x7mm_wqtx",
+        ":version": "rv-xxxn_3hb7~32nj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0940",
+        "fountainty": "A",
+        "position": "In Shade, Under Tree",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN12",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "A-Prospect Park-Vale Of Cashmere, Nellie's Lawn",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974163,
+          40.665391
+        ]
+      },
+      "properties": {
+        ":id": "row-7bff~gg6i.bayc",
+        ":version": "rv-6cwd~6838-u363",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1144",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-BLG1253",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-Storehouse",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973867,
+          40.660879
+        ]
+      },
+      "properties": {
+        ":id": "row-q97u-3yq4.9bwd",
+        ":version": "rv-fkeq.deyx-gj23",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0850",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963429,
+          40.660662
+        ]
+      },
+      "properties": {
+        ":id": "row-v63g~qyu7~7pci",
+        ":version": "rv-pnqh_mnr3~qyj8",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0287",
+        "fountainty": "D",
+        "position": "In Playground",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-10",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "D-Prospect Park-Lincoln Rd Plgd",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-ssa4.jmgv~6r7i",
+        ":version": "rv-qzjf~84c4.xyv2",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1049",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976462,
+          40.66106
+        ]
+      },
+      "properties": {
+        ":id": "row-s3nr_8ptx_4657",
+        ":version": "rv-x6j4_43tc-w5gq",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0846",
+        "fountainty": "E High Low",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "YES",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975773,
+          40.660165
+        ]
+      },
+      "properties": {
+        ":id": "row-vngi-srwj_b643",
+        ":version": "rv-nyff-tpge.atx5",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0935",
+        "fountainty": "Bottle Filler High Low",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "3",
+        "department": "B-19",
+        "decription": "Bottle Filler High Low-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973706,
+          40.666899
+        ]
+      },
+      "properties": {
+        ":id": "row-6e2g-49w3~hybv",
+        ":version": "rv-exd9~y6uf.y6sj",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1045",
+        "fountainty": "Food Prep Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN03-BLG1243",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Food Prep Sink-Prospect Park-LITCHFIELD VILLA",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963145,
+          40.658489
+        ]
+      },
+      "properties": {
+        ":id": "row-4d5u_2b7g_v6w8",
+        ":version": "rv-5dfq.iqnt_nvap",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0911",
+        "fountainty": "E",
+        "position": "In Playground",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-09",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "E-Prospect Park-Imagination Plgd",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974598,
+          40.662215
+        ]
+      },
+      "properties": {
+        ":id": "row-mqie-qb6p_x6rk",
+        ":version": "rv-64sm-e7gs-879z",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0854",
+        "fountainty": "B",
+        "position": "Out in Open, Near Ballfield",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN15",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Lower Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.965469,
+          40.665364
+        ]
+      },
+      "properties": {
+        ":id": "row-u7jg.24kg~eyen",
+        ":version": "rv-rukq.9whe~6ghu",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1053",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN11-BLG1254",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-ZOO",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975115,
+          40.665219
+        ]
+      },
+      "properties": {
+        ":id": "row-s5ws-9hgs~e4qz",
+        ":version": "rv-r3ud_n3hz_8v8g",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1040",
+        "fountainty": "Indoor Drinking Fountain",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-BLG1226",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Indoor Drinking Fountain-Prospect Park-PROSPECT PK GARAGE",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971648,
+          40.668799
+        ]
+      },
+      "properties": {
+        ":id": "row-pum2_q8e2.6t9t",
+        ":version": "rv-dbbq.84ap~5xcx",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0302",
+        "fountainty": "C",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN13",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "C-Prospect Park-Upper Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973348,
+          40.663586
+        ]
+      },
+      "properties": {
+        ":id": "row-m5dp_ifif-pucj",
+        ":version": "rv-qgu3~bxe4~44nw",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF1123",
+        "fountainty": "Slop Sink",
+        "position": "Indoor",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN14-BLG1238",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "Slop Sink-Prospect Park-Tennis House",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97264,
+          40.654684
+        ]
+      },
+      "properties": {
+        ":id": "row-bnaf~tbi3.qf7y",
+        ":version": "rv-umek~478r-8ur7",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0915",
+        "fountainty": "E and Dog",
+        "position": "Out in Open, Just Outside Playground",
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN06",
+        "borough": "B",
+        "fountainco": "2",
+        "department": "B-19",
+        "decription": "E and Dog-Prospect Park-Prospect Park Southwest Lower",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967871,
+          40.669724
+        ]
+      },
+      "properties": {
+        ":id": "row-qzk7~pj37~m4qh",
+        ":version": "rv-q6u3~hu4k.psj7",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0942",
+        "fountainty": "A",
+        "position": null,
+        "painted": null,
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN12",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "A-Prospect Park-Vale Of Cashmere, Nellie's Lawn",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969362,
+          40.668112
+        ]
+      },
+      "properties": {
+        ":id": "row-fr5s_9auf.eac7",
+        ":version": "rv-jvf3.qqvw_dh59",
+        ":created_at": "2024-07-15T14:41:57.987Z",
+        ":updated_at": "2024-07-15T14:42:04.763Z",
+        "system": "B073-DF0308",
+        "fountainty": "B",
+        "position": "Out in Open",
+        "painted": "NO",
+        "gispropnum": "B073",
+        "propertyna": "Prospect Park",
+        "parentid": "B073-ZN13",
+        "borough": "B",
+        "fountainco": "1",
+        "department": "B-19",
+        "decription": "B-Prospect Park-Upper Long Meadow",
+        "featuresta": "Active",
+        ":@computed_region_f5dn_yrer": "13",
+        ":@computed_region_yeji_bk3q": "2",
+        ":@computed_region_sbqj_enih": "50",
+        ":@computed_region_92fq_4b7q": "27"
+      }
+    }
+  ]
+}
